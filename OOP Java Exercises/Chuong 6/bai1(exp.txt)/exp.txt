@@ -1,0 +1,4 @@
+Chuoi ki tu: khiem
+Ki tu: k
+So nguyen: 2
+So thuc: 4.0
